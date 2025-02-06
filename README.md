@@ -5,7 +5,7 @@ Models used include RF, LSTM, SVM, kNN
 
 # NASAs turbofan dataset
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f350d737-bbcf-4be0-a9e4-0704345aa30f)
 
 
 
@@ -21,3 +21,9 @@ The notebooks are used to explore the dataset and try various modeling technique
 
 ## Source : https://www.kaggle.com/datasets/behrad3d/nasa-cmaps/data
 
+# Visualizations
+
+![image](https://github.com/user-attachments/assets/25f32bfc-8f4e-4147-956d-a54db638e438)
+
+
+![Uploading image.png…]()
